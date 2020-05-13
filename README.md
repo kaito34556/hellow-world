@@ -1,2 +1,4 @@
 # hellow-world
-Just another repository
+hi,humans!
+
+Kaito here. I like python, processing,and some hardware such as leapmotion.
